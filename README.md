@@ -6,7 +6,7 @@ Mechanical model will involve push button which counts and another reset button 
 Electronic model will involve battery, some push button, counter, reset button or we can override a switch.</br>
 
 # TIMELINE: 
-- Half an hour daily for two weeks. </br>
+- Half an hour daily for a month. </br>
 
 # LIST OF WORK TO BE DONE
 - [ ] Identify the knowledge gap
