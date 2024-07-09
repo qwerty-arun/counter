@@ -34,3 +34,12 @@
 5) Should the counter be on at all times? No. So, there needs to an on/off switch.</br>
 6) How do you reset the counter? Should we use override? </br>
 7) Will OLED display work with the ICs which I use? </br>
+
+# 09/07/2024
+1) Research about circuits for LCD, LED, 7 segment and Matrix display. </br>
+2) SMD (Surface Mount Devices) are preferred.</br>
+3) Decrement using decade counter is not possible which is an important feature to add. </br>
+4) Top-most priority: Battery Life. </br>
+5) Sometimes, it is better to go with complex code than hardware whcih involves additional circuitry.</br>
+6) First press of button, just display the current count and then the very next press of button, it increments. This is important if battery is of utmost priority. Or a seperate button where as long as we press it, it displays then turns off but doesn't perform increment or decrement.</br>
+7) Better to go with microcontroller with this project as code can handle all possible cases easily. But think about which microcontroller: 16 bit or 32 bit etc. </br>
